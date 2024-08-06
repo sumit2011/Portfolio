@@ -1,7 +1,7 @@
 {
 	"author": "Sumit",
 	"name": "Sumit",
-	"short_name": "sumit",
+	"short_name": "Sumit",
 	"description": "It's a cool portfolio site.",
 	"orientation": "portrait",
 	"start_url": "/index.html",
@@ -19,26 +19,23 @@
 			
 		},
 		{
-			"src": "/logo2.png",
+			"src": "/512x512.png",
 			"sizes": "256x256",
 			"type": "image/png"
 			
 		},
 		{
-			"src": "/192x192.png",
+			"src": "/512x512.png",
 			"sizes": "192x192",
 			"type": "image/png"
 			
 		},
 		{
-			"src": "/logo.png",
+			"src": "/512x512.png",
 			"sizes": "64x64",
 			"type": "image/png"
 			
 		}
-		
-		
-		
 		
 		
 	],
